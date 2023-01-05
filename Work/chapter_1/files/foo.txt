@@ -1,0 +1,3 @@
+foo.txt
+this file is simple
+the file will not be difficult

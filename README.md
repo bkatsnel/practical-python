@@ -1,3 +1,5 @@
+[![Open in Codeanywhere](https://img.shields.io/badge/Open%20in-Codeanywhere-7f3f97)](https://app.codeanywhere.com/#https://github.com/dabeaz-course/practical-python/)
+
 # Welcome!
 
 When I first learned Python nearly 27 years ago, I was immediately

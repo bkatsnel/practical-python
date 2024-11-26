@@ -27,6 +27,6 @@ while principal > 0:
 	if principal < 0:
 		total_paid = total_paid + principal # Adjust the last payment
 		principal = 0 # Set principal to 0 to exit the loop
-	print(month, "   ", total_paid)
+	print(f'Month: {month} vs   {total_paid}')
 	
 
